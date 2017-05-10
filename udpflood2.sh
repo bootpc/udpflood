@@ -1,6 +1,6 @@
 # !/bin/bash
 # Herramienta de test de stress UDP
-# (C) hackingyseguridad.com 2017
+# (C) Antonio Taboada 2017
 # Uso: sh udpflood.sh ip_target puerto_target
 echo
 echo UDP Flood con herramienta hping3
